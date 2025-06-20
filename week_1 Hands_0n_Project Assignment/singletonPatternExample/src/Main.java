@@ -1,7 +1,4 @@
-/**
- * Main.java
- * Tests that only one Logger instance exists.
- */
+
 public class Main {
     public static void main(String[] args) {
 
